@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Xondamir
-- 👀 I’m interested in C/C++. Also very curious about game development.
-- 🌱 Currently mastering C++ and Python.
-- 💞️ Looking to collaborate on C++ or Python projects.
-- 📫 To reach me: gmail = xondamirnazrullayev@gmail.com, email = xondamirnazrullayev@mail.ru
+- 👀 I’m interested in Web Development. Also very curious about game development.
+- 🌱 Currently mastering CSS and HTML.
+- 💞️ Looking to collaborate on CSS or HTML projects.
+- 📫 To reach me: mail = xondamirnazrullayev@gmail.com , xondamirnazrullayev@mail.ru
 
 <!---
 Xondamir-coder/Xondamir-coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
