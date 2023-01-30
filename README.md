@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Xondamir
+- 👋 Hi, I’m Xondamir Nazrullayev
 - 👀 I’m interested in Web Development. Also very curious about game development.
 - 🌱 Currently mastering CSS and HTML.
 - 💞️ Looking to collaborate on CSS or HTML projects.
