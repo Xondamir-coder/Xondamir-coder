@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Xondamir Nazrullayev
-- 👀 I’m interested in Web Development. Also very curious about game development.
-- 🌱 Currently mastering CSS and HTML.
-- 💞️ Looking to collaborate on CSS or HTML projects.
+- 👀 I’m interested in Front-End Development. Also very curious about game development.
+- 🌱 Currently developing varios websites using React.js and Vue.js
 - 📫 To reach me: mail = xondamirnazrullayev@gmail.com , xondamirnazrullayev@mail.ru
 
 <!---
