@@ -16,13 +16,14 @@ While I don't like setting long-term goals, I have a clear vision of my immediat
   <img src="https://img.shields.io/badge/-Telegram-black?style=flat-square&logo=Telegram" alt="Telegram">
 </a>
 <a href="https://instagram.com/xondamirking">
-  Instagram
-  <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=Instagram" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-black?style=flat-square&logo=Instagram" alt="Instagram">
 </a>
 <a href="https://github.com/Xondamir-coder">
   <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub" alt="GitHub">
 </a>
 <a href="https://www.linkedin.com/in/xondamir-nazrullayev-designer//">
-  <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=Linkedin" alt="Linkedin"
+  <img src="https://img.shields.io/badge/-Linkedin-black?style=flat-square&logo=Linkedin" alt="Linkedin"
 </a>
-<a href="mailto:xondamirnazrullayev@gmail.com">📬 xondamirnazrullayev@gmail.com</a>
+<a href="mailto:xondamirnazrullayev@gmail.com">
+  <img src="https://img.shields.io/badge/-GMail-black?style=flat-square&logo=GMail" alt="Gmail"
+</a>
