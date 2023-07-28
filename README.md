@@ -14,6 +14,8 @@ While I don't like setting long-term goals, I have a clear vision of my immediat
 <h1 align='center'>🤙 Get in touch with me!</h1>
 [![Telegram](https://img.shields.io/badge/-Telegram-black?style=flat-square&logo=Telegram)](https://t.me/Assert1veX)
 <a href="https://instagram.com/xondamirking">![Discord](https://img.shields.io/badge/-Discord-black?style=flat-square&logo=Discord)</a>
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub)](https://github.com/Xondamir-coder)
+<a href="https://github.com/Xondamir-coder">
+  <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub" alt="GitHub">
+</a>
 <a href="https://www.linkedin.com/in/xondamir-nazrullayev-designer//">![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=LinkedIn)</a>
 <a href="mailto:xondamirnazrullayev@gmail.com">![Gmail](https://img.shields.io/badge/-GMail-black?style=flat-square&logo=GMail)</a>
