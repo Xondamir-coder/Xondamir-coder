@@ -12,8 +12,8 @@ One of my proudest achievements is earning a full ride scholarship to Inha Unive
 🔮 Future Aspirations:
 While I don't like setting long-term goals, I have a clear vision of my immediate ambitions. My short-term goals involve mastering Vue Framework and REST API, and then moving on to become a Nuxt.js expert. I value quality over quantity, taking the time to perfect my skills and create magnificent websites.
 <h1 align='center'>🤙 Get in touch with me!</h1>
-[([Image URL](https://img.shields.io/badge/-Telegram-black?style=flat-square&logo=Telegram))](https://t.me/Assert1veX)
+[![Telegram](https://img.shields.io/badge/-Telegram-black?style=flat-square&logo=Telegram)](https://t.me/Assert1veX)
 <a href="https://instagram.com/xondamirking">![Discord](https://img.shields.io/badge/-Discord-black?style=flat-square&logo=Discord)</a>
-<a href="https://github.com/Xondamir-coder">![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub)</a>
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub)](https://github.com/Xondamir-coder)
 <a href="https://www.linkedin.com/in/xondamir-nazrullayev-designer//">![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=LinkedIn)</a>
 <a href="mailto:xondamirnazrullayev@gmail.com">![Gmail](https://img.shields.io/badge/-GMail-black?style=flat-square&logo=GMail)</a>
