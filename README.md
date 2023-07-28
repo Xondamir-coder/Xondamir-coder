@@ -22,6 +22,6 @@ While I don't like setting long-term goals, I have a clear vision of my immediat
   <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub" alt="GitHub">
 </a>
 <a href="https://www.linkedin.com/in/xondamir-nazrullayev-designer//">
-  <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=Linkedin"
+  <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=Linkedin" alt="Linkedin"
 </a>
 <a href="mailto:xondamirnazrullayev@gmail.com">📬 xondamirnazrullayev@gmail.com</a>
