@@ -16,6 +16,7 @@ While I don't like setting long-term goals, I have a clear vision of my immediat
   <img src="https://img.shields.io/badge/-Telegram-black?style=flat-square&logo=Telegram" alt="Telegram">
 </a>
 <a href="https://instagram.com/xondamirking">
+  Instagram
   <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=Instagram" alt="Instagram">
 </a>
 <a href="https://github.com/Xondamir-coder">
