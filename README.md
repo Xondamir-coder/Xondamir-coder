@@ -12,16 +12,16 @@ One of my proudest achievements is earning a full ride scholarship to Inha Unive
 🔮 Future Aspirations:
 While I don't like setting long-term goals, I have a clear vision of my immediate ambitions. My short-term goals involve mastering Vue Framework and REST API, and then moving on to become a Nuxt.js expert. I value quality over quantity, taking the time to perfect my skills and create magnificent websites.
 <h1 align='center'>🤙 Get in touch with me!</h1>
-<a style="text-decoration: none" href="https://t.me/Assert1veX">
+<a  href="https://t.me/Assert1veX">
   <img src="https://img.shields.io/badge/-Telegram-black?style=flat-square&logo=Telegram" alt="Telegram">
 </a>
-<a style="text-decoration: none" href="https://instagram.com/xondamirking">
+<a href="https://instagram.com/xondamirking">
   <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=Instagram" alt="Instagram">
 </a>
-<a style="text-decoration: none" href="https://github.com/Xondamir-coder">
+<a href="https://github.com/Xondamir-coder">
   <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub" alt="GitHub">
 </a>
-<a style="text-decoration: none" href="https://www.linkedin.com/in/xondamir-nazrullayev-designer//">
+<a href="https://www.linkedin.com/in/xondamir-nazrullayev-designer//">
   <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=Linkedin"
 </a>
-<a  style="text-decoration: none" href="mailto:xondamirnazrullayev@gmail.com">📬 xondamirnazrullayev@gmail.com</a>
+<a href="mailto:xondamirnazrullayev@gmail.com">📬 xondamirnazrullayev@gmail.com</a>
