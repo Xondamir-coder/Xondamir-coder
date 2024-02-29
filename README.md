@@ -4,7 +4,7 @@
     🧑‍💻 I am a passionate Front-End Developer.
   </li>
   <li>
-    🔮 I use Vue, Three.js, Lenis, GSAP
+    🔮 I use Vue, Three.js, Lenis, GSAP and of course Pure JS
   </li>
 </ul>
 
